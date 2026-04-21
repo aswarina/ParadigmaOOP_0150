@@ -37,5 +37,7 @@ int main(){
     nonElektronik.jumlah = 1;
     nonElektronik.kategori = "nonElektronik";
     nonElektronik.tanggalProduksi = "1970-03-11";
+    elektronik.tampilSpeak();
 
+    
 }
