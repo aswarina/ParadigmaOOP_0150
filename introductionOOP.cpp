@@ -12,4 +12,8 @@ public :
         cout << "NAMA : " << nama << endl;
         cout << "NILAI : " << nilai << endl;
     }
+};
+
+int main(){
+    
 }
